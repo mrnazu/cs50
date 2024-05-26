@@ -2,7 +2,7 @@
 
 **Note:** Nazu
 
-This note explores the concepts introduced in our first C program and delves deeper into computer fundamentals.
+This note explores the concepts introduced in our first C/Scratch program and dive deeper into computer fundamentals.
 
 **Conditional Statements:**
 
@@ -36,6 +36,8 @@ Computers understand instructions in the language of 0s and 1s (binary) due to t
 
 - ASCII (American Standard Code for Information Interchange) is a standard that assigns binary codes to letters, numbers, and symbols. This allows computers to display text.
 
+![alt text](image.png)
+
 **Example: Converting "HI" to Binary:**
 
 The note provides an example of converting the letters "HI" to their corresponding binary codes using the ASCII chart (image not included).
@@ -63,15 +65,36 @@ Scratch allows creating simple programs using drag-and-drop blocks. It's a great
 - Variables: Storing and manipulating data within a program (e.g., slices_of_bread_left).
 - Arrays: Collections of related data (e.g., storing different types of fruit).
 
-**Looking Ahead:**
+**Events:**
 
-The note briefly mentions threads, hinting at the concept of running multiple programs concurrently.
+In Scratch, Events are used to trigger actions or behaviors when specific conditions are met. Think of Events like "if-then" statements, but more powerful. Here's a breakdown:
 
-**Key Takeaways:**
+* **What is an Event?**: An Event is a trigger that happens when a specific condition is met. For example, when the user clicks a button, the screen is touched, or the timer reaches a certain time.
+* **Types of Events in Scratch**: Scratch has several built-in Events, such as:
+	+ **Mouse Click**: Triggered when the user clicks a sprite.
+	+ **Key Press**: Triggered when the user presses a key on the keyboard.
+	+ **Touch**: Triggered when the user touches the screen.
+	+ **Timer**: Triggered when the timer reaches a specific time.
+	+ **Collision**: Triggered when two sprites collide.
+* **How to use Events in Scratch**: To use an Event, you'll need to:
+	1. Create a sprite or a backdrop.
+	2. Add an Event block to the sprite or backdrop.
+	3. Define the condition that triggers the Event (e.g., "when the user clicks this button").
+	4. Add the action that should happen when the Event is triggered (e.g., "say 'Hello'").
 
-- This note provides a foundation for understanding binary, basic programming constructs, and Scratch as a learning tool.
-- It lays the groundwork for exploring more advanced computer science concepts.
+**Threading:**
 
-**Additional Resources:**
+In Scratch, Threading refers to the way the program runs multiple tasks simultaneously. Think of it like a multi-tasking robot: it can do many things at the same time!
 
-You can find online resources and tutorials to practice binary conversion and explore Scratch in more detail.
+A computer program these days can do multiple things at once and a slight white lie. It can create the illusion of doing multiple things at once. It's just so much faster than you, the human are, you don't really notice that it's doing a little bit of this, a little bit of this, and repeating so fast that you don't realize that actually it's not all happening at the same time.
+
+But in Scratch we can implement this idea of multiple threads, multiple scripts or multiple sprites executing at the very same time rather than one after the other. And what this allows us to do is write a program like this where two different sprites somehow interact.
+
+Events and Threading are indeed important concepts in computer science, and they can be challenging to grasp at first. But don't worry, I'm here to help you understand them better!
+
+* **What is Threading in Scratch?**: Threading in Scratch allows you to create multiple scripts that run independently of each other. This means you can create multiple tasks, like animation, sound effects, and game logic, that run concurrently.
+* **How to use Threading in Scratch**: To use Threading in Scratch, you'll need to:
+	1. Create multiple scripts for each task you want to run concurrently.
+	2. Use the "forever" loop to make each script run continuously.
+	3. Use the "wait" block to pause the script for a specific amount of time or until a condition is met.
+	4. Use the "stop" block to stop the script when a condition is met.
