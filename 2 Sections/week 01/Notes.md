@@ -1,0 +1,5 @@
+- Basic Linux Commands
+- Simple Hello World C code
+- Scratch
+- Conditional Statement (rev)
+- Loop, For loop (rev)
