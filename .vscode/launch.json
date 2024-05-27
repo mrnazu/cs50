@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "c:/Users/Hp/Documents/Projects/cs50/1 Lectures/week 01/code",
+      "program": "c:/Users/Hp/Documents/Projects/cs50/1 Lectures/week 01/code/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

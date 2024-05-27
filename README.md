@@ -3,7 +3,7 @@ Welcome to the CS50 Fair! CS50 is a first course in Computer Science for concent
 
 Note: Nazu
 
-## Week 0
+## Week 0 (Done)
 - Introduction (Done)
 - Bits (Done)
 - Binary (Done)
@@ -16,8 +16,8 @@ Note: Nazu
 - Conditions (Done)
 - Loops (Done)
 - Variables (Done)
-- Threads
-- Events
+- Threads (Done)
+- Events (Done)
 
 ## Week 1
 - C
