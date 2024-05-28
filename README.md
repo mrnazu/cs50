@@ -19,25 +19,25 @@ Note: Nazu
 - Threads (Done)
 - Events (Done)
 
-## Week 1
-- C
-- Source code
-- Compilers
-- Object code
-- GCC
-- Functions
-- Comments
-- Standard output
-- Arithmetic operators
-- Precedence
-- Local variables
-- Types
-- Casting
-- Standard input
-- Libraries
-- Boolean expressions, continued
-- Conditions, continued 
-- Loops, continued
+## Week 1 (Done)
+- C (Done)
+- Source code (Done)
+- Compilers (Done)
+- Object code (Done)
+- GCC (Done)
+- Functions (Done)
+- Comments (Done)
+- Standard output (Done)
+- Arithmetic operators (Done)
+- Precedence (Done)
+- Local variables (Done)
+- Types (Done)
+- Casting (Done)
+- Standard input (Done)
+- Libraries (Done)
+- Boolean expressions, continued (Done)
+- Conditions, continued (Done)
+- Loops, continued (Done)
 
 ## Week 2
 - Functions, continued
