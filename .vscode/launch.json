@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Hp/Documents/Projects/cs50/1 Lectures/week 01/code",
-      "program": "c:/Users/Hp/Documents/Projects/cs50/1 Lectures/week 01/code/build/Debug/outDebug",
+      "cwd": "c:/Users/Hp/Documents/Projects/cs50/6 Books/C Programming Language 2nd/Chap1",
+      "program": "c:/Users/Hp/Documents/Projects/cs50/6 Books/C Programming Language 2nd/Chap1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
