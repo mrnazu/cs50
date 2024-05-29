@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Hp/Documents/Projects/cs50/6 Books/C Programming Language 2nd/Chap1",
-      "program": "c:/Users/Hp/Documents/Projects/cs50/6 Books/C Programming Language 2nd/Chap1/build/Debug/outDebug",
+      "cwd": "c:/Users/Hp/Documents/Projects/cs50/3 Problem Sets & Walkthrough/Problem Set 1_ C/code",
+      "program": "c:/Users/Hp/Documents/Projects/cs50/3 Problem Sets & Walkthrough/Problem Set 1_ C/code/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
