@@ -49,6 +49,3 @@ In this example, the program checks the value of `day` and executes the correspo
 * Use `switch-case` when:
 	+ You have a single variable that needs to be checked against multiple values.
 	+ You want to execute different blocks of code based on the value of that variable.
-
-# Buggy (Week 02)
-I think in order to do this topic.. we have to first done the problem set 0 C task :))
