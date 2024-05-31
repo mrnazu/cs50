@@ -1,7 +1,10 @@
 #include <stdio.h>
 
-int day = 3;
-switch (day) {
+int main()
+{
+    int day = 3;
+    switch (day)
+    {
     case 1:
         printf("day is Monday\n");
         break;
@@ -14,4 +17,5 @@ switch (day) {
     default:
         printf("Invalid day\n");
         break;
+    }
 }
