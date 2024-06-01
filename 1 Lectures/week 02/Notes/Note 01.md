@@ -72,3 +72,13 @@ Programmatically, we can achieve the same effect from progress2.c using a while 
 
 We have to be careful to include the update condition i++ within our loop code block somewhere or else our loop will repeat infinitely.
 
+# typecasting
+## `ascii1.c`
+As ascii1.c demonstrates, you can actually explicitly convert an integer to an ASCII character simply by casting it.
+
+This program simply prints all the letters in the alphabet, both lowercase and uppercase, along with their ASCII mappings to integers.
+
+## `ascii2.c`
+In grade school, you may have passed a note to your crush or best friend3 that was written in code. A simple way of encrypting the note would have been to shift each of the letters down by one. So “a” would become “b,” “b” would become “c,” and so on. How do we express this programmatically? If we cast a letter to a number and then add 1, then cast it back to a letter, we would effectively shift it down the alphabet by one. ascii2.c demonstrates that characters and numbers are actually interchangeable in C.
+
+Here we’re simply casting i to a char in order to turn it into its corresponding ASCII character.
