@@ -39,18 +39,18 @@ Note: Nazu
 - Conditions, continued (Done)
 - Loops, continued (Done)
 
-## Week 2
-- Functions, continued
-- Global variables
-- Parameters
-- Return values
-- Stack
-- Frames
-- Scope
-- Arrays
-- Strings
-- Command-line arguments
-- Cryptography
+## Week 2 (Done)
+- Functions, continued (Done)
+- Global variables (Done)
+- Parameters (Done)
+- Return values (Done)
+- Stack (Done)
+- Frames (Done)
+- Scope (Done)
+- Arrays (Done)
+- Strings (Done)
+- Command-line arguments (Done)
+- Cryptography (Done)
 
 ## Week 3
 - Linear search
