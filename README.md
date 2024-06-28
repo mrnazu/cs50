@@ -52,14 +52,14 @@ Note: Nazu
 - Command-line arguments (Done)
 - Cryptography (Done)
 
-## Week 3
-- Linear search
-- Binary search
-- Asymptotic notation
-- Recursion
-- Bubble sort
-- Selection sort
-- Debugging.
+## Week 3 (Done)
+- Big O (Done)
+- Linear search (Done)
+- Binary search (Done)
+- Asymptotic notation (Done)
+- Recursion (Done)
+- Bubble sort (Done)
+- Selection sort (Done)
 
 ## Week 4
 - Merge sort
